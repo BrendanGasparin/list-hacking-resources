@@ -1,4 +1,4 @@
-# list-hacking-youtubers
+# List of Hacking and Penetration Testing YouTube Channels
 A curated list of YouTube channels with content related to hacking and penetration testing.
 
 [Cyber Mentor, The](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw): The Cyber Mentor has a lot of content on ethical hacking, including trimmed-down versions of his paid online courses. He also has content on broader cybersecurity topics.  
