@@ -45,6 +45,9 @@ Conferences and meet-ups a great way to network with and learn from other cybers
 [Root Me](https://www.root-me.org): Root Me contains over 300 virtual environments for users to practice their cybersecurity and ethical hacking skills. Root Me is accessible to newcomers to the field, but also contains environments to challenge more advanced hackers. It has both free and subscription content.  
 [tryHackMe](https://tryhackme.com): TryHackMe has a series of structured pathways, "rooms", and laboratories designed to teach and challenge cybersecurity skills to people of all skill levels, from beginner to advanced. TryHackMe contains both free and premium content.  
 
+## Social Media  
+[B's List of X Hackers](https://x.com/i/lists/1805176315135561870): An X list of X accounts that primarily "tweet" about hacking.  
+
 ## YouTube Channels  
 YouTube channels with content devoted to hacking or penetration testing.  
 
