@@ -17,6 +17,11 @@ Capture The Flag (CTF) sites provide a way for hackers and penetration testers t
 [picoCTF](https://picoctf.org): picoCTF gamifies hacking with CTF puzzles created by trusted security and privacy experts at Cernegie Mellon University. It is aimed at high school students, but security enthusiasts of all ages can participate.  
 [We Chall](https://wechall.net): As well as hosting their own CTF challenges, We Chall allows users to connect their accounts from other CTF sites to provide a total running score summed from many hacking sites across the Internet.  
 
+## Educational Sites  
+[Cybrary](https://cybrary.it/): Cybrary contains a mixture of free and subscription-based content focused on a broad range of cybersecurity related topics.  
+[LetsDefend](https://letsdefend.io/):  
+[tryHackMe](https://tryhackme.com): TryHackMe contains "rooms" on various cybersecurity, hacking, computers, and networking topics. Some of the material is free, and some is subscription-based. An excellent site with learning paths for beginners, intermediate, and advanced learners.  
+
 ## Hacking and Penetration Testing Platforms
 
 [Hack the Box](https://www.hackthebox.com): Hack The Box contains a series of challenges designed to enhance cybersecurity skills by simulating real-world attack scenarios. Hack the Box has a strong community, hosts competitive CTF challenges, and has a ranking system to help users show their skills to potential employers. It contains both free and subscription-based content.  
