@@ -2,14 +2,27 @@
 
 A curated list of resources related to hacking and penetration testing.
 
+## Bug Bounty Platforms  
+Bug bounty platforms crowdsource hackers and penetrations testers and pays them to find bugs in information technology systems.  
+[Bugcrowd](https://bugcrowd.com): Bugcrowd is a security platform that uses bug bounty programs and also offers a variety of penetration testing services.  
+[HackerOne](https://hackerone.com): HackerOne is a company specializing in cybersecurity, and was one of the first companies to embrace crowdsourced security and bug bounties.  
+[Integriti](https://intigriti.com): Integriti is another global crowdsourcing company with a specialization in cybersecurity and agile security testing.  
+
+## Capture The Flag Sites  
+Capture The Flag (CTF) sites provide a way for hackers and penetration testers to test their skills in a legally safe way. By solving cybersecurity problems, users can unlock flags as proof they have completed challenges.  
+[CTFTime](https://ctftime.org): While CTFTime does not itself contain CTF challenges, it is a great resource for finding CTF teams, CTF writeups, and CTF ratings on the hackers and teams who use the platform.  
+[Hack The Box](https://hackthebox.com): Hack The Box is a reputable and highly regarded gamified platform for legal hacking, CTFs, upskilling, certification, and talent assessment. Hack The Box labs are constantly updated and allow users to sharpen both offensive and defensive security expertise.   
+[HackThisSite](https://hackthissite.org): HackThisSite is a fee, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, Established in 2003, it is home to a community devoted to learning and sharing ethical hacking knowledge.  
+[OverTheWire](https://overthewire.org/wargames/): OverTheWire offers wargame challenges that allow users to learn and practice security concepts in a gamified format. It has an emphasis on the Linux kernel, and hackers must use SSH to connect to exploitable machines and find flags.  
+[picoCTF](https://picoctf.org): picoCTF gamifies hacking with CTF puzzles created by trusted security and privacy experts at Cernegie Mellon University. It is aimed at high school students, but security enthusiasts of all ages can participate.  
+[We Chall](https://wechall.net): As well as hosting their own CTF challenges, We Chall allows users to connect their accounts from other CTF sites to provide a total running score summed from many hacking sites across the Internet.  
+
 ## Hacking and Penetration Testing Platforms
 
 [Hack the Box](https://www.hackthebox.com): Hack The Box contains a series of challenges designed to enhance cybersecurity skills by simulating real-world attack scenarios. Hack the Box has a strong community, hosts competitive CTF challenges, and has a ranking system to help users show their skills to potential employers. It contains both free and subscription-based content.  
 [HackingHub](https://app.hackinghub.io): A completely free resource for teaching ethical hacking through hubs that each focus on a different aspect of modern or future cybersecurity subjects, with challenges and missions of varying difficulties.  
-[OverTheWire](): OverTheWire offers a series of wargames to teach system exploits, network attacks, and other vulnerabilities. The challenges start at a beginner level, and increase in difficulty. Each wargame is centred around a different theme or technology. OverTheWire is completely free and has a good, collaborative community.  
 [PentesterLab](https://pentesterlab.com): Pentester Lab focuses on the penetration testing and web security aspect of cybersecurity. It has free and subscription content to teach skills to users, and a badge system so users can display their achievements. Excercises contain breakdowns of problems, methodologies to exploit them, and ways to patch them.  
-[picoCTF](https://picoctf.org): PicoCTF is a beginner CTF site for high school and online students, designed by Carnegie Mellon University. It has a focus on education through gamification, with a system of points that lets users unlock more difficult challenges. PicoCTF is completely free.  
-[PortSwigger](https://portswigger.net): PortSwigger are the creators of penetration testing tool BurpSuite and contains training to help users develop their cybersecurity and ethical hacking skills. Their Web Security Academy is free and covers a broad range of cybersecurity topics. It has free and subscription-based content.  
+[PortSwigger](https://portswigger.net): PortSwigger are the creators of penetration testing tool BurpSuite and their site contains training to help users develop their cybersecurity and ethical hacking skills. Their Web Security Academy is free and covers a broad range of cybersecurity topics. It has free and subscription-based content.  
 [Root Me](https://www.root-me.org): Root Me contains over 300 virtual environments for users to practice their cybersecurity and ethical hacking skills. Root Me is accessible to newcomers to the field, but also contains environments to challenge more advanced hackers. It has both free and subscription content.  
 [tryHackMe](https://tryhackme.com): TryHackMe has a series of structured pathways, "rooms", and laboratories designed to teach and challenge cybersecurity skills to people of all skill levels, from beginner to advanced. TryHackMe contains both free and premium content.  
 
