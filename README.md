@@ -29,7 +29,7 @@ Conferences and meet-ups a great way to network with and learn from other cybers
 [OWASP](https://owasp.org/): OWASP has different chapters to join and different meet-ups to attend. It is specifically focused on application and web security.  
 
 ## Certifications and Certificates
-[Security+ from CompTIA Certification](https://www.comptia.org/certifications/security): COMPTIA's Security+ certification is a global certification that validates the skills and knowledge necessary to pursue a secuirty career in IT. It is a highly recognised certification in the cybersecurity industry.  
+[Security+ from CompTIA Certification](https://www.comptia.org/certifications/security): COMPTIA's Security+ certification is a global certification that validates the skills and knowledge necessary to pursue a security career in IT. It is a highly recognised certification in the cybersecurity industry.  
 [Offensive Security Certified Professional](https://learn.offsec.com/cybersecurity-certification-paths): This is a certification with a focus on penetration testing and security. OSCPs can execute real world penetration testing attacks, modify code for their own use, and develophave the mindset of penetration testers.  
 
 ## Educational Sites  
