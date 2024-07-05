@@ -4,6 +4,7 @@ A curated list of resources related to hacking and penetration testing.
 
 ## Bug Bounty Platforms  
 Bug bounty platforms crowdsource hackers and penetrations testers and pays them to find bugs in information technology systems.  
+  
 [Bugcrowd](https://bugcrowd.com): Bugcrowd is a security platform that uses bug bounty programs and also offers a variety of penetration testing services.  
 [HackerOne](https://hackerone.com): HackerOne is a company specializing in cybersecurity, and was one of the first companies to embrace crowdsourced security and bug bounties.  
 [Integriti](https://intigriti.com): Integriti is another global crowdsourcing company with a specialization in cybersecurity and agile security testing.  
