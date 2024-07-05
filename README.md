@@ -31,6 +31,7 @@ Conferences and meet-ups a great way to network with and learn from other cybers
 ## Certifications and Certificates  
 If you want a job in offensive security as an ethical hacker/penetration tester, you're going to need some certificates and certifications.  
 
+[CompTIA A+](https://www.comptia.org/certifications/a): While not specifically a cybersecurity certification, CompTIA's A+ certification is the industry standard entry-level certification for IT professionals, and demonstrates your knowledge of fundamental IT skills. It is ideal for people who need to learn the foundations of IT before embarking on further cybersecurity training.  
 [Security+ from CompTIA Certification](https://www.comptia.org/certifications/security): COMPTIA's Security+ certification is a global certification that validates the skills and knowledge necessary to pursue a security career in IT. It is a highly recognised certification in the cybersecurity industry.  
 [Offensive Security Certified Professional](https://learn.offsec.com/cybersecurity-certification-paths): This is a certification with a focus on penetration testing and security. OSCPs can execute real world penetration testing attacks, modify code for their own use, and develophave the mindset of penetration testers.  
 
