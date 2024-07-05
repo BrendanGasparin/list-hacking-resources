@@ -37,7 +37,9 @@ Capture The Flag (CTF) sites provide a way for hackers and penetration testers t
 [tryHackMe](https://tryhackme.com): TryHackMe has a series of structured pathways, "rooms", and laboratories designed to teach and challenge cybersecurity skills to people of all skill levels, from beginner to advanced. TryHackMe contains both free and premium content.  
 
 ## YouTube Channels  
+YouTube channels with content devoted to hacking or penetration testing.  
 
+[247CTF](https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q): A YouTube channel dedicated to hacking videos and fundamental skills for Capture the Flag games (CTFs).  
 [Cyber Mentor, The](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw): The Cyber Mentor has a lot of content on ethical hacking, including trimmed-down versions of his paid online courses. He also has content on broader cybersecurity topics.  
 [David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w): David Bombal's YouTube channel focuses primarily on hacking and penetration testing, with some additional information on cybersecurity.  
 [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q): HackerSploit is an excellent channel with a wealth of information on all things related to hacking and penetration testing.  
