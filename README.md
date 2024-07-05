@@ -19,6 +19,15 @@ Capture The Flag (CTF) sites provide a way for hackers and penetration testers t
 [picoCTF](https://picoctf.org): picoCTF gamifies hacking with CTF puzzles created by trusted security and privacy experts at Cernegie Mellon University. It is aimed at high school students, but security enthusiasts of all ages can participate.  
 [We Chall](https://wechall.net): As well as hosting their own CTF challenges, We Chall allows users to connect their accounts from other CTF sites to provide a total running score summed from many hacking sites across the Internet.  
 
+## Conferences and Meet-Ups  
+Conferences and meet-ups a great way to network with and learn from other cybersecurity industry professionals.  
+  
+[Black Hat](https://www.blackhat.com/): Black Hat is a cybersecurity and hacking conference with a mainstream, wide audience. Black Hat hosts speakers, workshops, and training courses dedicated to hacking and cybersecurity.  
+[DEFCON](https://defcon.org/): DEFCON is a popular conference on hacking and cybersecurity. It is a great place to network professionally and learn from other people in the cybersecurity industry.  
+[Hackerspaces](https://hackerspaces.org/): Hackerspaces maintains a database of hackerspaces around the world so that you can meet up locally with like-minded hackers, makers, and other types of creators.  
+[NetWars](https://www.sans.org/cyber-ranges/#upcoming-cyber-ranges): NetWars from the SANS Institute hosts CTF competitions at physical locations and award prizes to winning competitors.  
+[OWASP](https://owasp.org/): OWASP has different chapters to join and different meet-ups to attend. It is specifically focused on application and web security.  
+
 ## Certifications and Certificates
 [Security+ from CompTIA Certification](https://www.comptia.org/certifications/security): COMPTIA's Security+ certification is a global certification that validates the skills and knowledge necessary to pursue a secuirty career in IT. It is a highly recognised certification in the cybersecurity industry.  
 [Offensive Security Certified Professional](https://learn.offsec.com/cybersecurity-certification-paths): This is a certification with a focus on penetration testing and security. OSCPs can execute real world penetration testing attacks, modify code for their own use, and develophave the mindset of penetration testers.  
