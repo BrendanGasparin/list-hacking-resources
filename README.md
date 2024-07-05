@@ -28,17 +28,22 @@ Conferences and meet-ups a great way to network with and learn from other cybers
 [NetWars](https://www.sans.org/cyber-ranges/#upcoming-cyber-ranges): NetWars from the SANS Institute hosts CTF competitions at physical locations and award prizes to winning competitors.  
 [OWASP](https://owasp.org/): OWASP has different chapters to join and different meet-ups to attend. It is specifically focused on application and web security.  
 
-## Certifications and Certificates
+## Certifications and Certificates  
+If you want a job in offensive security as an ethical hacker/penetration tester, you're going to need some certificates and certifications.  
+
 [Security+ from CompTIA Certification](https://www.comptia.org/certifications/security): COMPTIA's Security+ certification is a global certification that validates the skills and knowledge necessary to pursue a security career in IT. It is a highly recognised certification in the cybersecurity industry.  
 [Offensive Security Certified Professional](https://learn.offsec.com/cybersecurity-certification-paths): This is a certification with a focus on penetration testing and security. OSCPs can execute real world penetration testing attacks, modify code for their own use, and develophave the mindset of penetration testers.  
 
 ## Educational Sites  
+The following sites are eductional resources on cybersecurity and hacking.  
+
 [Cybrary](https://cybrary.it/): Cybrary contains a mixture of free and subscription-based content focused on a broad range of cybersecurity related topics.  
 [LetsDefend](https://letsdefend.io/):  
 [tryHackMe](https://tryhackme.com): TryHackMe contains "rooms" on various cybersecurity, hacking, computers, and networking topics. Some of the material is free, and some is subscription-based. An excellent site with learning paths for beginners, intermediate, and advanced learners.  
 
-## Hacking and Penetration Testing Platforms
-  
+## Hacking and Penetration Testing Platforms  
+The following platforms want to educate you with all of that good knowledge on hacking and penetration testing.  
+
 [HackingHub](https://app.hackinghub.io): A completely free resource for teaching ethical hacking through hubs that each focus on a different aspect of modern or future cybersecurity subjects, with challenges and missions of varying difficulties.  
 [PentesterLab](https://pentesterlab.com): Pentester Lab focuses on the penetration testing and web security aspect of cybersecurity. It has free and subscription content to teach skills to users, and a badge system so users can display their achievements. Excercises contain breakdowns of problems, methodologies to exploit them, and ways to patch them.  
 [PortSwigger](https://portswigger.net): PortSwigger are the creators of penetration testing tool BurpSuite and their site contains training to help users develop their cybersecurity and ethical hacking skills. Their Web Security Academy is free and covers a broad range of cybersecurity topics. It has free and subscription-based content.  
@@ -46,6 +51,8 @@ Conferences and meet-ups a great way to network with and learn from other cybers
 [tryHackMe](https://tryhackme.com): TryHackMe has a series of structured pathways, "rooms", and laboratories designed to teach and challenge cybersecurity skills to people of all skill levels, from beginner to advanced. TryHackMe contains both free and premium content.  
 
 ## Social Media  
+Social media accounts that primarily post hacking and penetration testing related content.  
+
 [B's List of X Hackers](https://x.com/i/lists/1805176315135561870): An X list of X accounts that primarily "tweet" about hacking.  
 
 ## YouTube Channels  
